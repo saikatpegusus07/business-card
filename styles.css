@@ -7,6 +7,7 @@ body {
   width: 200px;
   height: 200px;
   border-radius: 12px;
+  border: 5px #fa6e4b;
 }
 
 .card {
@@ -14,7 +15,8 @@ body {
   width: 520px;
   height: auto;
   box-shadow: 2px 2px 6px #ec66453e;
-  background: #ede7e7;
+  background: url(./Images/Frame\ 3\ low\ res.png);
+  background-size: cover;
   color: #252525;
   border-bottom: 8px solid #fa6e4b;
   border-radius: 24px;
